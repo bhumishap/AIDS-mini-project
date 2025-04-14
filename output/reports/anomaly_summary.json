@@ -1,0 +1,17 @@
+{
+    "total_records": 1500,
+    "anomalies_detected": 17,
+    "anomaly_percentage": 1.1333333333333333,
+    "anomaly_categories": {
+        "Large Packet": 11,
+        "Normal Size": 6
+    },
+    "protocol_categories": {
+        "ICMP": 10,
+        "Other": 7
+    },
+    "source_categories": {
+        "Bot Suspect": 9,
+        "Normal": 8
+    }
+}
